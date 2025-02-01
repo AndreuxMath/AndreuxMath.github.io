@@ -1,12 +1,12 @@
 # Short bio
 
-Applied ML researcher and team leader.
+I'm an applied ML researcher and team leader, with experience in deep learning, federated learning, and biomedical applications thereof. More recently, I also started working with LLMs.
 
 ## Professional experience
 
 - **2024-Now**: Core team researcher at [H](https://www.hcompany.ai/)
-- **2021-2024**: Group lead at [Owkin](www.owkin.com), first on federated learning, then fundamental ML
-- **2018-2021**: Senior data scientist at [Owkin](www.owkin.com), with a focus on federated learning
+- **2021-2024**: Group lead at [Owkin](https://www.owkin.com), first on federated learning, then fundamental ML
+- **2018-2021**: Senior data scientist at [Owkin](https://www.owkin.com), with a focus on federated learning
 
 ## Education
 
