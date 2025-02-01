@@ -1,1 +1,9 @@
 site_name: Mathieu Andreux
+theme:
+  name: material
+  font:
+    text: 'Palatino'
+    code: 'Source Code Pro'
+  palette:
+    primary: 'blue'
+    accent: 'blue grey'
