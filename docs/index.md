@@ -1,6 +1,6 @@
 # Short bio
 
-I'm an applied ML researcher and team leader, with experience in deep learning, federated learning, and biomedical applications thereof. More recently, I also started working with LLMs.
+I am an applied ML researcher and team leader, with experience in deep learning, federated learning, and biomedical applications thereof. More recently, I also started working with LLMs.
 
 ## Professional experience
 
