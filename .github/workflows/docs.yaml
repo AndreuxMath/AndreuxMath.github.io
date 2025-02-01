@@ -19,6 +19,8 @@ jobs:
           python-version-file: ".python-version"
       - name: Install the project
         run: uv sync
+      - name: Activate the virtual environment
+        run: source .venv/bin/activate
       - name: Deploy documentation
         run: mkdocs gh-deploy --force
 
